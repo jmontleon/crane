@@ -15,3 +15,23 @@ require (
 	sigs.k8s.io/controller-runtime v0.10.1
 	sigs.k8s.io/yaml v1.3.0
 )
+
+//FIXME
+//FIXME
+//FIXME
+//FIXME
+//FIXME
+//FIXME
+//FIXME
+//FIXME
+//FIXME
+//FIXME
+//FIXME
+//FIXME
+//FIXME
+//FIXME
+//FIXME
+//FIXME
+//FIXME
+//FIXME
+replace github.com/konveyor/crane-lib => /home/jason/Documents/src/github.com/konveyor/crane-lib
